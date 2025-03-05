@@ -1,19 +1,20 @@
 :root {
-  --4colpal1: #94E8B4;
-  --4colpal2: #72BDA3;
-  --4colpal3: #5E8C61;
-  --4colpal4: #4E6151;
-  --4colpalDarkNav: #395F52;
+  --4colpal1: #94B4E8;
+  --4colpal2: #72A3BD;
+  --4colpal3: #5E8C6A;
+  --4colpal4: #4E5161;
+  --4colpalDarkNav: #5F3952;
   --4onyxcol: #3A3B41;
   --4brightcol: #ffffff;
+
 }
 
 :root {
   --primary-color: #3A3B41;
-  --secondary-color: #4E6151;
-  --accent-color: #72BDA3;
+  --secondary-color: #4E5161;
+  --accent-color: #72A3BD;
   --text-color: #ffffff;
-  --hover-color: #94E8B4;
+  --hover-color: #94B4E8;
 }
 
 body {
