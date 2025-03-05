@@ -1,11 +1,12 @@
 :root {
-  --1colpal1: #94E8B4;
-  --1colpal2: #72BDA3;
-  --1colpal3: #5E8C61;
-  --1colpal4: #4E6151;
-  --1colpalDarkNav: #395F52;
+  --1colpal1: #94B4E8;
+  --1colpal2: #72A3BD;
+  --1colpal3: #5E8C6A;
+  --1colpal4: #4E5161;
+  --1colpalDarkNav: #5F3952;
   --1onyxcol: #3A3B41;
   --1brightcol: #ffffff;
+
 }
 
 @font-face {
