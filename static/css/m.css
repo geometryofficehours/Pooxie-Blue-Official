@@ -1,11 +1,12 @@
 :root {
-  --2colpal1: #94E8B4;
-  --2colpal2: #72BDA3;
-  --2colpal3: #5E8C61;
-  --2colpal4: #4E6151;
-  --2colpalDarkNav: #395F52;
+  --2colpal1: #94B4E8;
+  --2colpal2: #72A3BD;
+  --2colpal3: #5E8C6A;
+  --2colpal4: #4E5161;
+  --2colpalDarkNav: #5F3952;
   --2onyxcol: #3A3B41;
   --2brightcol: #ffffff;
+
 }
 
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap");
