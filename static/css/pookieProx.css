@@ -11,11 +11,12 @@
 }
 
 :root {
-  --colpal1: #94E8B4;
-  --colpal2: #72BDA3;
-  --colpal3: #5E8C61;
-  --colpal4: #4E6151;
-  --colpalDarkNav: #395F52;
+  --colpal1: #94B4E8;
+  --colpal2: #72A3BD;
+  --colpal3: #5E8C6A;
+  --colpal4: #4E5161;
+  --colpalDarkNav: #5F3952;
   --onyxcol: #3A3B41;
   --brightcol: #ffffff;
+
 }
